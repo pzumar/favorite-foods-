@@ -1,13 +1,15 @@
-My Favorite foods
+My Favorite Imbibables
 ===================
 
-##Savory:
+## Savory:
 
 * [Soup](http://www.countryliving.com/soup-recipes/)
 * [Meat](http://allrecipes.com/recipes/200/meat-and-poultry/beef/)
 * [Green Things](http://www.foodnetwork.com/topics/vegetables.html)
 
-##Sweet:
+## Sweet:
 * Chocolate
 * Pie
-* Tequilla
+
+## Beverages:
+* Tequila
